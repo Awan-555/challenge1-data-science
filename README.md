@@ -23,7 +23,7 @@ Este notebook realiza lo siguiente:
 
 Puedes abrir el notebook directamente en Colab desde este enlace:
 
-[[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](ENLACE_A_TU_COLAB)](https://colab.research.google.com/drive/17OogOJB4cBNbg8yDig0_l6zGDGzOSQxU#scrollTo=S2JeaCykZNy9)
+[[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17OogOJB4cBNbg8yDig0_l6zGDGzOSQxU#scrollTo=S2JeaCykZNy9)]
 
 ## Autor
 Adrian Castillo https://github.com/Awan-555
