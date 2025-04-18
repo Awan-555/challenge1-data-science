@@ -6,6 +6,7 @@ Este proyecto fue desarrollado en Google Colab y trata sobre análisis de datos 
 Tecnologías utilizadas
 - Python
 - Google Colab
+- Matplotlib
 
 ## Descripción
 
